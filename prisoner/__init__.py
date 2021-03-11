@@ -3,7 +3,7 @@ c = Currency
 
 
 doc = """
-This is a one-shot "Prisoner's Dilemma". Two players are asked separately
+Este es un cambio de pruebaaaaaa. This is a one-shot "Prisoner's Dilemma". Two players are asked separately
 whether they want to cooperate or defect. Their choices directly determine the
 payoffs.
 """

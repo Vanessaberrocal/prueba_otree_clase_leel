@@ -15,6 +15,7 @@ class Constants(BaseConstants):
     multiplier = 3
     instructions_template = 'trust_simple/instructions.html'
 
+#comentariooooos nuevos 
 
 class Subsession(BaseSubsession):
     pass

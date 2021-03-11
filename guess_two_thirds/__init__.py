@@ -3,6 +3,7 @@ from otree.api import *
 c = Currency
 
 doc = """
+jijiiiiiiiiiii:)
 a.k.a. Keynesian beauty contest.
 Players all guess a number; whoever guesses closest to
 2/3 of the average wins.
